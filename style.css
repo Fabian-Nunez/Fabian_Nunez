@@ -1,3 +1,7 @@
-.cuerpo{background-color: rgb(255, 255, 93);
-font-style: italic;
+.cuerpo{
+    background-color: rgb(255, 255, 93);
+    font-style: italic;
+}
+.cards{align-content: center; margin-left: auto; margin-right: auto;
+
 }
